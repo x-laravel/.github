@@ -124,14 +124,6 @@ Older Laravel compatibility (5.5+). Still works, no new features planned.
 
 </details>
 
-<details>
-<summary><b>📦 Archived packages</b></summary>
-
-<br/>
-
-`model-settings-bag` (→ use `eloquent-settings`), `validation-extend`, `validation-color-extend`, `str-extend`. Public for reference, no longer maintained.
-
-</details>
 
 ---
 
