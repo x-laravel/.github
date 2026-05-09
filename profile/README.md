@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/x-laravel/.github/master/assets/logo.png" width="280" alt="x-laravel" />
 
-# x-laravel
 
 **Focused, tested, well-maintained Laravel packages.**
 Solving real-world problems — simply, cleanly, for the long run.
