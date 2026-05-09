@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x-laravel/.github/master/assets/logo.png" width="280" alt="x-laravel" />
+<img src="https://raw.githubusercontent.com/x-laravel/.github/master/assets/x-laravel-logo.svg" width="280" alt="x-laravel" />
 
 
 **Focused, tested, well-maintained Laravel packages.**
