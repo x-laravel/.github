@@ -46,7 +46,7 @@ Post::similarToText('php frameworks', limit: 10);
 </td></tr>
 <tr><td><b>Drivers</b></td><td>
 
-[`pgsql`](https://github.com/x-laravel/embedding-pgsql-plugin) · [`mysql`](https://github.com/x-laravel/embedding-mysql-plugin) · [`mariadb`](https://github.com/x-laravel/embedding-mariadb-plugin) · [`sqlsrv`](https://github.com/x-laravel/embedding-sqlsrv-plugin) · [`oracle`](https://github.com/x-laravel/embedding-oracle-plugin) · [`qdrant`](https://github.com/x-laravel/embedding-qdrant-plugin)
+[`pgsql`](https://github.com/x-laravel/embedding-pgsql-driver) · [`mysql`](https://github.com/x-laravel/embedding-mysql-driver) · [`mariadb`](https://github.com/x-laravel/embedding-mariadb-driver) · [`sqlsrv`](https://github.com/x-laravel/embedding-sqlsrv-driver) · [`oracle`](https://github.com/x-laravel/embedding-oracle-driver) · [`qdrant`](https://github.com/x-laravel/embedding-qdrant-driver)
 
 </td></tr>
 </table>
