@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/x-laravel.png" width="120" alt="x-laravel" />
-<!-- TODO: replace with assets/logo.svg when ready -->
+<img src="https://raw.githubusercontent.com/x-laravel/.github/master/assets/logo.png" width="280" alt="x-laravel" />
 
 # x-laravel
 
